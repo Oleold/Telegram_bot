@@ -4,6 +4,6 @@
 -:Вместо token, вставляете ваш токен.
 Устанавливаете библиотеки:
 pip install pyTelegramBotAPI;
-pip install translate
-pip install requests
+pip install translate;
+pip install requests.
 -:Автор выполнил этого бота, как дз.
