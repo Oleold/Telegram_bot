@@ -1,14 +1,11 @@
 def main():
-  import time
+	import time
 	import telebot
 	from telebot import types
 	import config
 	import requests
 	from translate import Translator
 	import random
-
-
-	print("Tg_compete")
 
 	bot = telebot.TeleBot("token")
 
